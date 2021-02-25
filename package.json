@@ -1,0 +1,30 @@
+{
+  "name": "cescp",
+  "description": "Computer Engineering School Company Profile",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/arifai/cescp"
+  },
+  "author": {
+    "name": "Ahmad Rifa'i",
+    "email": "arifai209@gmail.com",
+    "url": "https://arifai.github.io"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.12",
+    "@nuxt/typescript-build": "^2.0.4",
+    "@nuxtjs/tailwindcss": "^3.4.2"
+  }
+}
